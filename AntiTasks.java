@@ -1,3 +1,3 @@
-public class AntiTasks {
+public class AntiTasks extends Tasks{
     
 }

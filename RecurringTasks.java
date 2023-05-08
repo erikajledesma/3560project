@@ -1,3 +1,3 @@
-public class RecurringTasks {
+public class RecurringTasks extends Tasks{
     
 }
